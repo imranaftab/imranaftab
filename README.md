@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[.NET Core 6](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0)**
+- 🔭 I’m currently working on **[.NET 9 & C# 12](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0)**
 
-- 🌱 I’m currently learning **[Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)**
+- 🌱 I’m currently learning **[React 19](https://react.dev/reference/react)** & **[Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects** 
 
